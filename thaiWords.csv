@@ -19,8 +19,8 @@ green curry,A2,noun,แกงเขียวหวาน,X,gɛɛng-kǐao-wǎan,,
 red curry,A2,noun,แกงแดง,X,gɛɛng-dɛɛng,,,X,เขากินแกงแดงกับข้าว,He eats red curry with rice.
 "chicken, fowl",A1,noun,ไก่,X,gài,,,X,ฉันกินไก่,I eat chicken.
 bitter,A2,adjective,ขม,X,kǒm,,,X,ยานี้ขมมากแต่ดีต่อสุขภาพ,This medicine is very bitter but good for health.
-thing,A1,noun,ของ,X,kɔ̌ɔng,,,X,ของฉันอยู่บนโต๊ะ,My thing is on the table.
 of,A2,preposition,ของ,X,kɔ̌ɔng,,,X,นี่เป็นหนังสือของเพื่อนฉัน,This is a book of my friend.
+thing,A1,noun,ของ,X,kɔ̌ɔng,,,X,ของฉันอยู่บนโต๊ะ,My thing is on the table.
 sorry,A1,interjection,ขอโทษ,X,kɔ̌ɔ-tôot,,,X,ขอโทษฉันมาสาย,"Sorry, I am late."
 thank you,A1,interjection,ขอบคุณ,X,kɔ̀ɔp-kun,,male,X,ขอบคุณมากครับ,Thank you very much.
 sell,A1,verb,ขาย,X,kǎai,,,X,ฉันขายข้าว,I sell rice.
@@ -59,13 +59,13 @@ help,A1,verb,ช่วย,X,chûai,,,X,ช่วยฉันหน่อย,Help
 chocolate,A2,noun,ช็อกโกแลต,X,chɔ̂k-koo-lɛ́t,,,X,ฉันชอบกินช็อกโกแลตทุกวัน,I like to eat chocolate every day.
 like,A1,verb,ชอบ,X,chɔ̂ɔp,,,X,ฉันชอบปลา,I like fish.
 hour,A1,noun,ชั่วโมง,X,chûua-moong,,,X,เรียนหนึ่งชั่วโมง,Study for one hour.
-boy,A1,noun,ชาย,X,chaai,,,X,ชายนั่งที่เก้าอี้,The man sits on the chair.
+man,A2,noun,ชาย,X,chaai,,,,,
 biography,B2,noun,ชีวประวัติ,X,chii-wá-bprà-wàt,,,X,เขาเขียนชีวประวัติของนักดนตรีชื่อดัง,He wrote the biography of a famous musician.
 biology,B2,noun,ชีววิทยา,X,chii-wá-wít-tá-yaa,,,X,นักเรียนปีหนึ่งต้องเรียนวิชาชีววิทยา,First-year students must study biology.
 name,A1,noun,ชื่อ,X,chʉ̂ʉ,,,X,ฉันชื่อแอน,My name is Ann.
 morning,A1,noun,เช้า,X,cháao,,,X,เช้านี้อากาศดี,This morning the weather is good.
 shampoo,A2,noun,แชมพู,X,chɛɛm-puu,,,X,ฉันซื้อแชมพูที่ร้าน,I buy shampoo at the shop.
-be correct,A1,verb,ใช่,X,châi,,,X,ใช่ ฉันเข้าใจ,"Yes, I understand."
+"be correct, yes",A1,verb,ใช่,X,châi,,,X,ใช่ ฉันเข้าใจ,"Yes, I understand."
 yes,A1,interjection,ใช่,X,châi,,,X,ใช่ ถูกต้อง,"Yes, that’s correct."
 buy,A1,verb,ซื้อ,X,sʉ́ʉ,,,X,ฉันซื้อข้าว,I buy rice.
 shop,A1,verb,ซื้อของ,X,sʉ́ʉ-kɔ̌ɔng,,,X,ฉันไปซื้อของ,I go shopping.
@@ -152,6 +152,8 @@ drunken noodles,A2,noun,ผัดขี้เมา,X,pàt-kîi-mao,,,X,เพ�
 pad see ew,A2,noun,ผัดซีอิ๊ว,X,pàt-sii-íu,,,X,พวกคุณเคยกินผัดซีอิ๊วไหม,Have you ever eaten Pad See Ew?
 pad thai,A2,noun,ผัดไทย,X,pàt-tai,,,X,ฉันกินผัดไทยกับเพื่อน,I eat pad thai with a friend.
 wrong,A1,adjective,ผิด,X,pìt,,,X,คำตอบผิด,The answer is wrong.
+man,A1,noun,ผู้ชาย,,pûu-chaai,,,,,
+woman,A1,noun,ผู้หญิง,,phûu-yǐng,,,,,
 spicy,A1,adjective,เผ็ด,X,pèt,,,X,ต้มยำเผ็ด,Tom yum is spicy.
 tomorrow,B1,noun,พรุ่ง,X,prûng,,,X,เราคุยกันเรื่องงานพรุ่ง,We talked about tomorrow’s work.
 tomorrow,A1,noun,พรุ่งนี้,X,prûng-níi,,,X,พรุ่งนี้ฉันทำงาน,Tomorrow I work.
@@ -188,8 +190,8 @@ no,A1,interjection,ไม่ใช่,X,mâi-châi,,,X,ไม่ใช่ ฉั
 how,A1,pronoun,ยังไง,X,yang-ngai,,,X,คุณทำยังไง,How do you do it?
 long,A1,adjective,ยาว,X,yaao,,,X,ผมยาว,The hair is long.
 stand,A1,verb,ยืน,X,yʉʉn,,,X,ฉันยืนที่นี่,I stand here.
-evening,A1,noun,เย็น,X,yen,,,X,ตอนเย็นฉันกลับบ้าน,In the evening I go home.
 cold,A1,adjective,เย็น,X,yen,,,X,น้ำเย็น,The water is cold.
+evening,A1,noun,เย็น,X,yen,,,X,ตอนเย็นฉันกลับบ้าน,In the evening I go home.
 car,A1,noun,รถ,X,rót,,,X,ฉันมีรถหนึ่งคัน,I have one car.
 train,A1,noun,รถไฟ,X,rót-fai,,,X,ฉันนั่งรถไฟ,I ride a train.
 bus,A1,noun,รถเมล์,X,rót-mee,,,X,ฉันนั่งรถเมล์,I ride a bus.
@@ -238,11 +240,12 @@ short,A1,adjective,สั้น,X,sân,,,X,ไม้บรรทัดสั้�
 republic,B2,noun,สาธารณรัฐ,X,sǎa-taa-rá-ná-rát,,,X,ประเทศนี้เปลี่ยนจากราชอาณาจักรเป็นสาธารณรัฐ,This country changed from a kingdom to a republic.
 public,B2,adjective,สาธารณะ,X,sǎa-taa-rá-ná,,,X,สวนสาธารณะเป็นที่พักผ่อนของประชาชนในเมือง,A public park is a place for city people to relax.
 three,A1,numeral,สาม,X,sǎam,,,X,ฉันมีเพื่อนสามคน,I have three friends.
-girl,A1,noun,สาว,X,sǎao,,,X,สาวคนนั้นสวย,That girl is beautiful.
+"young woman, girl",A1,noun,สาว,X,sǎao,,,X,สาวคนนั้นสวย,That young woman is beautiful.
 ten,A1,numeral,สิบ,X,sìp,,,X,สิบคน,Ten people.
 color,A1,noun,สี,X,sǐi,,,X,ฉันชอบสีแดง,I like red.
 four,A1,numeral,สี่,X,sìi,,,X,ฉันมีสี่โต๊ะ,I have four tables.
 six,A1,numeral,หก,X,hòk,,,X,หกเล่ม,Six books.
+woman,A2,noun,หญิง,,yǐng,,,,,
 heavy,A1,adjective,หนัก,X,nàk,,,X,กล่องหนัก,The box is heavy.
 "movie, film",A1,noun,หนัง,X,nǎng,,,X,ฉันดูหนัง,I watch a movie.
 "book, writings",A1,noun,หนังสือ,X,nǎng-sʉ̌ʉ,,,X,ฉันอ่านหนังสือ,I read a book.
