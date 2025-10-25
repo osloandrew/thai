@@ -8,6 +8,20 @@ const resultsContainer = document.getElementById("results-container");
 let sentenceCorpus = []; // Flat array of { id, no, en, noNorm, enNorm, cefr, audio }
 let sentenceIndex = null; // Map<string, Uint32Array | number[]>
 
+// Map incoming CSV headers to the app’s canonical keys
+const SCHEMA_MAP = {
+  ord: "word",
+  engelsk: "English",
+  CEFR: "CEFR",
+  gender: "gender",
+  uttale: null, // not in Spanish CSV
+  etymologi: null, // not in Spanish CSV
+  definisjon: "definition",
+  eksempel: "example",
+  sentenceTranslation: "sentenceTranslation",
+  transliteration: "transliteration", // optional extra; stored for future use
+};
+
 // Function to show or hide the landing card
 function showLandingCard(show) {
   const landingCard = document.getElementById("landing-card");
@@ -184,8 +198,32 @@ function parseCSVData(data) {
     header: true,
     skipEmptyLines: true,
     complete: function (resultsFromParse) {
-      results = resultsFromParse.data.map((entry) => {
-        entry.ord = entry.ord.trim(); // Ensure the word is trimmed
+      const rows = resultsFromParse.data || [];
+
+      results = rows.map((raw) => {
+        const get = (canon) => {
+          const key = SCHEMA_MAP[canon];
+          if (!key) return "";
+          return (raw[key] ?? "").toString().trim();
+        };
+
+        // Base object in canonical shape the rest of the app expects
+        const entry = {
+          ord: get("ord"),
+          engelsk: get("engelsk"),
+          CEFR: get("CEFR").toUpperCase(),
+          gender: get("gender"), // will be formatted later
+          uttale: get("uttale"), // empty for ES
+          etymologi: get("etymologi"), // empty for ES
+          definisjon: get("definisjon"),
+          eksempel: get("eksempel"),
+          sentenceTranslation: get("sentenceTranslation"),
+          region: get("region"),
+        };
+
+        // Defensive trims
+        entry.ord = entry.ord.trim();
+
         return entry;
       });
       buildSentenceCorpus();
