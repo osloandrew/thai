@@ -11,6 +11,7 @@ let sentenceIndex = null; // Map<string, Uint32Array | number[]>
 // Map incoming CSV headers to the app’s canonical keys
 const SCHEMA_MAP = {
   ord: "word",
+  wordAudio: "wordAudio",
   engelsk: "English",
   CEFR: "CEFR",
   gender: "gender",
@@ -18,6 +19,7 @@ const SCHEMA_MAP = {
   etymologi: null, // not in Spanish CSV
   definisjon: "definition",
   eksempel: "example",
+  sentenceAudio: "sentenceAudio",
   sentenceTranslation: "sentenceTranslation",
   transliteration: "transliteration", // optional extra; stored for future use
 };
@@ -218,6 +220,8 @@ function parseCSVData(data) {
           definisjon: get("definisjon"),
           eksempel: get("eksempel"),
           sentenceTranslation: get("sentenceTranslation"),
+          wordAudio: get("wordAudio"),
+          sentenceAudio: get("sentenceAudio"),
           region: get("region"),
         };
 
