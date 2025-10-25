@@ -7,21 +7,29 @@ coffee,A1,noun,กาแฟ,X,gaa-fɛɛ,,,X,กาแฟร้อนมาก,Th
 iced coffee,A2,noun,กาแฟเย็น,X,gaa-fɛɛ-yen,,,X,ฉันชอบดื่มกาแฟเย็นตอนบ่าย,I like to drink iced coffee in the afternoon.
 cartoon,A2,noun,การ์ตูน,X,gaa-dtuun,,,X,น้องชายอ่านการ์ตูนทุกคืน,My younger brother reads comics every night.
 eat,A1,verb,กิน,X,gin,,,X,ฉันกินข้าวแล้ว,I have eaten rice.
-old,A1,adjective,เก่า,X,,,,X,หนังสือเก่านี้อยู่ในบ้าน,This old book is in the house.
+how many,A1,pronoun,กี่,X,gìi,,,X,กี่โมงแล้ว,What time is it?
+salt,A1,noun,เกลือ,X,glʉʉa,,,X,อาหารนี้มีเกลือ,This food has salt.
+"old, not new",A1,adjective,เก่า,X,gào,,,X,หนังสือเก่านี้อยู่ในบ้าน,This old book is in the house.
+nine,A1,numeral,เก้า,X,gâao,,,X,ฉันมีเก้าเล่ม,I have nine books.
 chair,A1,noun,เก้าอี้,X,gâo-îi,,,X,เก้าอี้อยู่ในห้องเรียน,The chair is in the classroom.
+"chicken, fowl",A1,noun,ไก่,X,gài,,,X,ฉันกินไก่,I eat chicken.
 bitter,A2,adjective,ขม,X,kǒm,,,X,ยานี้ขมมากแต่ดีต่อสุขภาพ,This medicine is very bitter but good for health.
-of,A2,preposition,ของ,X,kɔ̌ɔng,,,X,นี่เป็นหนังสือของเพื่อนฉัน,This is a book of my friend.
 thing,A1,noun,ของ,X,kɔ̌ɔng,,,X,ของฉันอยู่บนโต๊ะ,My thing is on the table.
+of,A2,preposition,ของ,X,kɔ̌ɔng,,,X,นี่เป็นหนังสือของเพื่อนฉัน,This is a book of my friend.
 sorry,A1,interjection,ขอโทษ,X,kɔ̌ɔ-tôot,,,X,ขอโทษฉันมาสาย,"Sorry, I am late."
 thank you,A1,interjection,ขอบคุณ,X,kɔ̀ɔp-kun,,male,X,ขอบคุณมากครับ,Thank you very much.
-sell,A1,verb,ขาย,X,,,,X,ฉันขายข้าว,I sell rice.
+sell,A1,verb,ขาย,X,kǎai,,,X,ฉันขายข้าว,I sell rice.
+white,A1,adjective,ขาว,X,kǎao,,,X,เสื้อนี้ขาว,This shirt is white.
 rice,A1,noun,ข้าว,X,kâao,,,X,ข้าวอร่อย,The rice is delicious.
 "he, she, they",A1,pronoun,เขา,X,kǎo,,,X,เขาเป็นนักเรียน,He is a student.
 "come in, enter",A1,verb,เข้า,X,kâo,,,X,ฉันเข้าโรงเรียน,I enter the school.
 understand,A1,verb,เข้าใจ,X,kâo-jai,,,X,ฉันเข้าใจครู,I understand the teacher.
 misunderstand,B1,verb,เข้าใจผิด,X,kâo-jai-pìt,,,X,เขาเข้าใจผิดว่าฉันเป็นครู,He misunderstood that I was a teacher.
+green,A1,adjective,เขียว,X,kǐao,,,X,ต้นไม้เขียว,The tree is green.
+egg,A1,noun,ไข่,X,kài,,,X,ฉันกินไข่,I eat eggs.
 "calculation, computation",B1,noun,คณิต,X,ká–nít,,,X,นักเรียนเรียนคณิตทุกเช้า,The students study math every morning.
 person,A1,noun,คน,X,kon,,,X,คนนั้นชื่ออะไร,What is that person’s name?
+Thai person,A1,noun,คนไทย,X,kon-tai,,,X,เขาเป็นคนไทย,He is Thai.
 male politeness marker,A1,particle,ครับ,X,kráp,,male,X,ขอบคุณครับ,Thank you.
 Christian,B2,noun,คริสต์ศาสนิกชน,X,krít-sǎa-sà-ník-gà-chon,,,X,คริสต์ศาสนิกชนเข้าร่วมพิธีมิสซาในโบสถ์ทุกสัปดาห์,Christians attend mass in church every week.
 teacher,A1,noun,ครู,X,kruu,,,X,ครูอยู่ที่โรงเรียน,The teacher is at the school.
@@ -33,15 +41,17 @@ you,A1,pronoun,คุณ,X,kun,,,X,คุณเป็นครูหรือเ
 cake,A1,noun,เค้ก,X,kéek,,,X,ฉันกินเค้ก,I eat cake.
 salty,A2,adjective,เค็ม,X,kem,,,X,อาหารนี้เค็มเกินไป,This food is too salty.
 kill,B1,verb,ฆ่า,X,kâa,,,X,กฎหมายห้ามฆ่าสัตว์ป่า,The law forbids killing wild animals.
-money,A1,noun,เงิน,X,,,,X,ฉันมีเงิน,I have money.
+"money, silver",A1,noun,เงิน,X,ngən,,,X,ฉันมีเงิน,I have money.
 poor,A2,adjective,จน,X,jon,,,X,เขาจนแต่ใจดี,He is poor but kind.
 will,A1,verb,จะ,X,jà,,,X,ฉันจะไปตลาด,I will go to the market.
 China,A1,noun,จีน,X,jiin,,,X,ฉันชอบอาหารจีน,I like Chinese food.
+seven,A1,numeral,เจ็ด,X,jèt,,,X,เจ็ดคนอยู่ที่นี่,Seven people are here.
 "heart, spirit",A2,noun,ใจ,X,jai,,,X,ฉันให้ดอกไม้จากใจ,I give flowers from my heart.
 I,A1,pronoun,ฉัน,X,chǎn,,,X,ฉันชอบแมว,I like cats.
-help,A1,verb,ช่วย,X,,,,X,ช่วยฉันหน่อย,Help me.
+help,A1,verb,ช่วย,X,chûai,,,X,ช่วยฉันหน่อย,Help me.
 chocolate,A2,noun,ช็อกโกแลต,X,chɔ̂k-koo-lɛ́t,,,X,ฉันชอบกินช็อกโกแลตทุกวัน,I like to eat chocolate every day.
 like,A1,verb,ชอบ,X,chɔ̂ɔp,,,X,ฉันชอบปลา,I like fish.
+hour,A1,noun,ชั่วโมง,X,chûua-moong,,,X,เรียนหนึ่งชั่วโมง,Study for one hour.
 boy,A1,noun,ชาย,X,chaai,,,X,ชายนั่งที่เก้าอี้,The man sits on the chair.
 biography,B2,noun,ชีวประวัติ,X,chii-wá-bprà-wàt,,,X,เขาเขียนชีวประวัติของนักดนตรีชื่อดัง,He wrote the biography of a famous musician.
 biology,B2,noun,ชีววิทยา,X,chii-wá-wít-tá-yaa,,,X,นักเรียนปีหนึ่งต้องเรียนวิชาชีววิทยา,First-year students must study biology.
@@ -49,52 +59,76 @@ morning,A1,noun,เช้า,X,cháao,,,X,เช้านี้อากาศ�
 shampoo,A2,noun,แชมพู,X,chɛɛm-puu,,,X,ฉันซื้อแชมพูที่ร้าน,I buy shampoo at the shop.
 be correct,A1,verb,ใช่,X,châi,,,X,ใช่ ฉันเข้าใจ,"Yes, I understand."
 yes,A1,interjection,ใช่,X,châi,,,X,ใช่ ถูกต้อง,"Yes, that’s correct."
-buy,A1,verb,ซื้อ,X,,,,X,ฉันซื้อข้าว,I buy rice.
+buy,A1,verb,ซื้อ,X,sʉ́ʉ,,,X,ฉันซื้อข้าว,I buy rice.
+shop,A1,verb,ซื้อของ,X,sʉ́ʉ-kɔ̌ɔng,,,X,ฉันไปซื้อของ,I go shopping.
 "also, too",A2,adverb,ด้วย,X,dûai,,,X,ฉันไปตลาดด้วยเพื่อน,I go to the market with a friend.
 you're welcome,A2,interjection,ด้วยความยินดี,X,dûai-kwaam-yin-dii,,male,X,ขอบคุณมากครับ ด้วยความยินดี,Thank you very much. With pleasure. (male speaker)
 dual,C,noun,ดวล,X,duuan,,,X,นักการเมืองทั้งสองใช้เวทีอภิปรายในสภาเป็นพื้นที่ดวลเชิงวาทศิลป์เพื่อแย่งชิงความชอบธรรมทางการเมือง,The two politicians used the parliamentary debate stage as a rhetorical duel to compete for political legitimacy.
 star,A2,noun,ดารา,X,daa-raa,,,X,ดาราคนนี้มีชื่อดังในไทย,This actor is famous in Thailand.
 astronomy,B2,noun,ดาราศาสตร์,X,daa-raa-sàat,,,X,นักดาราศาสตร์ศึกษาดาวเคราะห์นอกระบบสุริยะ,Astronomers study exoplanets.
 star,A2,noun,ดาว,X,daao,,,X,คืนนี้ดาวสวย,Tonight the stars are beautiful.
+black,A1,adjective,ดำ,X,dam,,,X,หมวกดำ,The hat is black.
 good,A1,adjective,ดี,X,dii,,,X,วันนี้ดีมาก,Today is very good.
-drink,A1,verb,ดื่ม,X,,,,X,ฉันดื่มน้ำ,I drink water.
+drink,A1,verb,ดื่ม,X,dʉ̀ʉm,,,X,ฉันดื่มน้ำ,I drink water.
 child,A1,noun,เด็ก,X,dèk,,,X,เด็กเล่น,The child plays.
+boy,A1,noun,เด็กผู้ชาย,X,dèk-pûu-chaai,,,X,เด็กผู้ชายนั่ง,The boy sits.
+girl,A1,noun,เด็กผู้หญิง,X,dèk-pûu-yǐng,,,X,เด็กผู้หญิงยิ้ม,The girl smiles.
+walk,A1,verb,เดิน,X,dəən,,,X,ฉันเดินไปบ้าน,I walk home.
+red,A1,adjective,แดง,X,dɛɛng,,,X,ดอกไม้แดง,The flower is red.
 dinosaur,A2,noun,ไดโนเสาร์,X,dai-noo-sǎo,,,X,เด็กๆชอบดูหนังไดโนเสาร์,Children like to watch dinosaur movies.
-hear,A1,verb,ได้ยิน,X,,,,X,ฉันได้ยินเพลง,I hear music.
+hear,A1,verb,ได้ยิน,X,dâi-yin,,,X,ฉันได้ยินเพลง,I hear music.
 tree,A1,noun,ต้นไม้,X,dtôn-máai,,,X,มีต้นไม้ใหญ่,There is a big tree.
-market,A1,noun,ตลาด,X,,,,X,ตลาดอยู่ใกล้บ้าน,The market is near the house.
+market,A1,noun,ตลาด,X,dtà-làat,,,X,ตลาดอยู่ใกล้บ้าน,The market is near the house.
+eye,A1,noun,ตา,X,dtaa,,,X,ตาสวย,Beautiful eyes.
 table,A1,noun,โต๊ะ,X,dtó,,,X,โต๊ะใหญ่อยู่ในห้องอาหาร,The big table is in the dining room.
-"street, road",A1,noun,ถนน,X,,,,X,ถนนหนาว,The road is cold.
+"street, road",A1,noun,ถนน,X,tà-nǒn,,,X,ถนนหนาว,The road is cold.
 "be, passive marker",B1,verb,ถูก,X,tùuk,,,X,เขาถูกถามคำถามยากมาก,He was asked very difficult questions.
 fry,A2,verb,ทอด,X,tɔ̂ɔt,,,X,พ่อทอดปลาในกระทะ,Father fries fish in the pan.
-"do, make",A1,verb,ทำ,X,,,,X,ฉันทำอาหาร,I cook food.
-work,A1,verb,ทำงาน,X,,,,X,ฉันทำงานทุกวัน,I work every day.
+"do, make",A1,verb,ทำ,X,tam,,,X,ฉันทำอาหาร,I cook food.
+work,A1,verb,ทำงาน,X,tam-ngaan,,,X,ฉันทำงานทุกวัน,I work every day.
+why,A1,pronoun,ทำไม,X,tam-mai,,,X,ทำไมคุณมาช้า,Why are you late?
 "at, in",A1,preposition,ที่,X,tîi,,,X,ฉันอยู่ที่บ้าน,I am at home.
+where,A1,pronoun,ที่ไหน,X,tîi-nǎi,,,X,คุณอยู่ที่ไหน,Where are you?
 technology,B1,noun,เทคโนโลยี,X,ték-noo-loo-yii,,,X,เทคโนโลยีใหม่ช่วยให้ชีวิตง่ายขึ้น,New technology helps make life easier.
+foot,A1,noun,เท้า,X,táao,,,X,เท้าเจ็บ,The foot hurts.
 taxi,A1,noun,แท็กซี่,X,tɛ́k-sîi,,,X,ฉันนั่งแท็กซี่,I ride a taxi.
-telephone,A1,noun,โทรศัพท์,X,,,,X,ฉันมีโทรศัพท์,I have a telephone.
+telephone,A1,noun,โทรศัพท์,X,too-rá-sàp,,,X,ฉันมีโทรศัพท์,I have a telephone.
 Thai,A1,adjective,ไทย,X,tai,,,X,อาหารไทยเผ็ด,Thai food is spicy.
 bank,A1,noun,ธนาคาร,X,tá-naa-kaan,,,X,ธนาคารอยู่ตรงข้ามโรงเรียน,The bank is across from the school.
+milk,A1,noun,นม,X,nom,,,X,ฉันดื่มนม,I drink milk.
 younger brother,A1,noun,น้องชาย,X,nɔ́ɔng-chaai,,,X,น้องชายฉันกินข้าว,My younger brother eats rice.
 younger sister,A1,noun,น้องสาว,X,nɔ́ɔng-sǎao,,,X,น้องสาวฉันน่ารัก,My younger sister is cute.
-few,A1,adjective,น้อย,X,,,,X,ข้าวในจานน้อย,There is little rice on the plate.
+sleep,A1,verb,นอน,X,nɔɔn,,,X,ฉันนอนบนเตียง,I sleep on the bed.
+few,A1,adjective,น้อย,X,nɔ́ɔi,,,X,ข้าวในจานน้อย,There is little rice on the plate.
 student,A1,noun,นักเรียน,X,nák-riian,,,X,นักเรียนอยู่ในห้อง,The students are in the classroom.
-"student, university student",A1,noun,นักศึกษา,X,,,,X,นักศึกษาเรียนภาษาไทย,The student studies Thai.
+"student, university student",A1,noun,นักศึกษา,X,nák-sʉ̀k-sǎa,,,X,นักศึกษาเรียนภาษาไทย,The student studies Thai.
+sit,A1,verb,นั่ง,X,nâng,,,X,นั่งตรงนี้,Sit here.
 that,A1,pronoun,นั่น,X,nân,,,X,นั่นคือบ้าน,That is a house.
+minute,A1,noun,นาที,X,naa-tii,,,X,รอหนึ่งนาที,Wait one minute.
 interesting,A2,adjective,น่าสนใจ,X,nâa-sǒn-jai,,,X,เรื่องนี้น่าสนใจมาก,This story is very interesting.
 water,A1,noun,น้ำ,X,náam,,male,X,ขอน้ำหน่อยครับ,Please give me some water.
+blue,A1,adjective,น้ำเงิน,X,nám-ngən,,,X,เสื้อน้ำเงิน,The shirt is blue.
+sugar,A1,noun,น้ำตาล,X,nám-dtaan,,,X,ฉันชอบน้ำตาล,I like sugar.
+juice,A1,noun,น้ำผลไม้,X,náam-pǒn-lá-máai,,,X,ฉันดื่มน้ำผลไม้,I drink juice.
 magazine,A2,noun,นิตยสาร,X,nít-dtà-yá-sǎan,,,X,น้องสาวซื้อ นิตยสาร แฟชั่น,My younger sister buys a fashion magazine.
+beef,A1,noun,เนื้อ,X,nʉ́ʉa,,,X,เขากินเนื้อ,He eats meat.
 on,A1,preposition,บน,X,bon,,,X,หนังสืออยู่บนโต๊ะ,The book is on the table.
-"house, home",A1,noun,บ้าน,X,,,,X,บ้านฉันเล็ก,My house is small.
+"house, home",A1,noun,บ้าน,X,bâan,,,X,บ้านฉันเล็ก,My house is small.
 bill,A2,noun,บิล,X,bin,,,X,ฉันต้องจ่ายบิลไฟฟ้า,I must pay the electricity bill.
+"light, lightweight",A1,adjective,เบา,X,bao,,,X,กระเป๋าเบา,The bag is light.
 bank,B1,noun,แบงก์,X,bɛ́ng,,,X,ฉันแลกเงินที่แบงก์,I exchange money at the bank.
-country,A1,noun,ประเทศ,X,,,,X,ประเทศไทยอยู่ในเอเชีย,Thailand is in Asia.
+country,A1,noun,ประเทศ,X,bprà-têet,,,X,ประเทศไทยอยู่ในเอเชีย,Thailand is in Asia.
 history,B1,noun,ประวัติ,X,bprà-wàt,,,X,ฉันอ่านหนังสือเกี่ยวกับประวัติไทย,I read a book about Thai history.
 fish,A1,noun,ปลา,X,bplaa,,,X,ฉันกินปลา,I eat fish.
 starfish,A2,noun,ปลาดาว,X,bplaa-daao,,,X,ปลาดาวอยู่ในทะเล,Starfish live in the sea.
+mouth,A1,noun,ปาก,X,bpàak,,,X,ปากเล็ก,The mouth is small.
+close,A1,verb,ปิด,X,bpìt,,,X,ปิดประตู,Close the door.
 be,A1,verb,เป็น,X,bpen,,,X,ฉันเป็นครู,I am a teacher.
+open,A1,verb,เปิด,X,bpə̀ət,,,X,เปิดไฟ,Turn on the light.
+eight,A1,numeral,แปด,X,bpɛ̀ɛt,,,X,ฉันมีแปดเล่ม,I have eight books.
 go,A1,verb,ไป,X,bpai,,,X,ฉันไปโรงเรียน,I go to school.
 "mail, post",A1,noun,ไปรษณีย์,X,bprai-sà-nii,,,X,ฉันไปไปรษณีย์,I go to the post office.
+fruit,A1,noun,ผลไม้,X,pǒn-lá-máai,,,X,ฉันกินผลไม้,I eat fruit.
 stir-fry,A2,noun,ผัด,X,pàt,,,X,ผัดผักง่ายมาก,Stir-frying vegetables is very easy.
 stir-fry,A2,verb,ผัด,X,pàt,,,X,แม่ผัดผักในครัว,Mother stir-fries vegetables in the kitchen.
 pad thai,A2,noun,ผัดไทย,X,pàt-tai,,,X,ฉันกินผัดไทยกับเพื่อน,I eat pad thai with a friend.
@@ -106,71 +140,99 @@ father,A1,noun,พ่อ,X,pɔ̂ɔ,,,X,พ่อไปทำงาน,Father goe
 older brother,A1,noun,พี่ชาย,X,pîi-chaai,,,X,พี่ชายสูง,My older brother is tall.
 older sister,A1,noun,พี่สาว,X,pîi-sǎao,,,X,พี่สาวสวย,My older sister is beautiful.
 Buddhist,B2,noun,พุทธศาสนิกชน,X,pút-tá-sǎa-sà-ník-gà-chon,,,X,พุทธศาสนิกชนมักทำบุญในวันพระ,Buddhists usually make merit on holy days.
-friend,A1,noun,เพื่อน,X,,,,X,เพื่อนดี,A good friend.
+friend,A1,noun,เพื่อน,X,pʉ̂ʉan,,,X,เพื่อนดี,A good friend.
+neighbor,A1,noun,เพื่อนบ้าน,X,pʉ̂ʉan-bâan,,,X,เพื่อนบ้านใจดี,The neighbor is kind.
 fashion,A2,noun,แฟชั่น,X,fɛɛ-chân,,,X,แฟชั่นใหม่จากปารีส,New fashion from Paris.
+"film, movie",A2,noun,ภาพยนตร์,X,pâap-pá-yon,,,X,ฉันดูภาพยนตร์กับเพื่อนเมื่อวาน,I watched a film with a friend yesterday.
 language,A1,noun,ภาษา,X,paa-sǎa,,,X,ฉันพูดภาษาไทย,I speak Thai.
-Thai,A1,noun,ภาษาไทย,X,,,,X,ภาษาไทยยาก,Thai is difficult.
-English,A1,noun,ภาษาอังกฤษ,X,,,,X,ภาษาอังกฤษง่าย,English is easy.
+Thai,A1,noun,ภาษาไทย,X,paa-sǎa-tai,,,X,ภาษาไทยยาก,Thai is difficult.
+English,A1,noun,ภาษาอังกฤษ,X,paa-sǎa-ang-grìt,,,X,ภาษาอังกฤษง่าย,English is easy.
 geography,B2,noun,ภูมิศาสตร์,X,puu-mí-sàat,,,X,ภูมิศาสตร์ช่วยให้เราเข้าใจภูเขา แม่น้ำ และภูมิอากาศ,"Geography helps us understand mountains, rivers, and climate."
 human being,B1,noun,มนุษย์,X,má-nút,,,X,มนุษย์ต้องการน้ำและอาหารเพื่ออยู่รอด,Humans need water and food to survive.
 "come, arrive",A1,verb,มา,X,maa,,,X,ฉันมาโรงเรียน,I come to school.
 very,A1,adverb,มาก,X,mâak,,,X,ฉันชอบกินข้าวมาก,I like to eat rice very much.
-have,A1,verb,มี,X,,,,X,ฉันมีรถ,I have a car.
+have,A1,verb,มี,X,mii,,,X,ฉันมีรถ,I have a car.
+hand,A1,noun,มือ,X,mʉʉ,,,X,มือใหญ่,The hand is big.
 Muslim,B2,noun,มุสลิม,X,mút-sà-lim,,,X,มุสลิมถือศีลอดในเดือนรอมฎอน,Muslims fast in the month of Ramadan.
 yesterday,A1,noun,เมื่อวาน,X,mʉ̂ʉa-waan,,,X,เมื่อวานฉันไปตลาด,Yesterday I went to the market.
 mother,A1,noun,แม่,X,mɛ̂ɛ,,,X,แม่ทำอาหาร,Mother cooks food.
 cat,A1,noun,แมว,X,mɛɛo,,,X,แมวนอนบนเก้าอี้,The cat sleeps on the chair.
 not,A1,adverb,ไม่,X,mâi,,,X,ฉันไม่หิว,I am not hungry.
 no,A1,interjection,ไม่ใช่,X,mâi-châi,,,X,ไม่ใช่ ฉันไม่ชอบ,"No, I don’t like it."
+how,A1,pronoun,ยังไง,X,yang-ngai,,,X,คุณทำยังไง,How do you do it?
+long,A1,adjective,ยาว,X,yaao,,,X,ผมยาว,The hair is long.
+stand,A1,verb,ยืน,X,yʉʉn,,,X,ฉันยืนที่นี่,I stand here.
 evening,A1,noun,เย็น,X,yen,,,X,ตอนเย็นฉันกลับบ้าน,In the evening I go home.
 cold,A1,adjective,เย็น,X,yen,,,X,น้ำเย็น,The water is cold.
-car,A1,noun,รถ,X,,,,X,ฉันมีรถหนึ่งคัน,I have one car.
-train,A1,noun,รถไฟ,X,,,,X,ฉันนั่งรถไฟ,I ride a train.
-bus,A1,noun,รถเมล์,X,,,,X,ฉันนั่งรถเมล์,I ride a bus.
+car,A1,noun,รถ,X,rót,,,X,ฉันมีรถหนึ่งคัน,I have one car.
+train,A1,noun,รถไฟ,X,rót-fai,,,X,ฉันนั่งรถไฟ,I ride a train.
+bus,A1,noun,รถเมล์,X,rót-mee,,,X,ฉันนั่งรถเมล์,I ride a bus.
 rich,A2,adjective,รวย,X,ruai,,,X,เขารวยเพราะมีธุรกิจใหญ่,He is rich because he has a big business.
 hot,A1,adjective,ร้อน,X,rɔ́ɔn,,,X,อากาศร้อนมาก,The weather is very hot.
-love,A1,verb,รัก,X,,,,X,ฉันรักเพื่อน,I love my friend.
+love,A1,verb,รัก,X,rák,,,X,ฉันรักเพื่อน,I love my friend.
 cafe,A2,noun,ร้านกาแฟ,X,ráan-gaa-fɛɛ,,,X,เราเจอกันที่ร้านกาแฟ,We meet at the coffee shop.
+shop,A1,noun,ร้านค้า,X,ráan-káa,,,X,ร้านค้าเล็ก,The shop is small.
 bookstore,A2,noun,ร้านหนังสือ,X,ráan-nǎng-sʉ̌ʉ,,,X,ฉันซื้อหนังสือที่ร้านหนังสือ,I buy a book at the bookstore.
 restaurant,A1,noun,ร้านอาหาร,X,ráan-aa-hǎan,,,X,ร้านอาหารอยู่ใกล้บ้าน,The restaurant is near the house.
-know,A1,verb,รู้,X,,,,X,ฉันรู้ภาษาไทย,I know Thai.
-"know, be familiar with",A1,verb,รู้จัก,X,,,,X,ฉันรู้จักครู,I know the teacher.
-study,A1,verb,เรียน,X,,,,X,ฉันเรียนภาษาอังกฤษ,I study English.
-hospital,A1,noun,โรงพยาบาล,X,,,,X,โรงพยาบาลอยู่ใกล้ตลาด,The hospital is near the market.
-school,A1,noun,โรงเรียน,X,,,,X,ฉันไปโรงเรียนทุกวัน,I go to school every day.
+know,A1,verb,รู้,X,rúu,,,X,ฉันรู้ภาษาไทย,I know Thai.
+"know, be familiar with",A1,verb,รู้จัก,X,rúu-jàk,,,X,ฉันรู้จักครู,I know the teacher.
+study,A1,verb,เรียน,X,riian,,,X,ฉันเรียนภาษาอังกฤษ,I study English.
+"hall, building",A2,noun,โรง,X,roong,,,X,โรงนี้เก่ามากแต่ยังใช้ได้,This hall is very old but still usable.
+hospital,A1,noun,โรงพยาบาล,X,roong-pá-yaa-baan,,,X,โรงพยาบาลอยู่ใกล้ตลาด,The hospital is near the market.
+"movie theater, cinema",A2,noun,โรงภาพยนตร์,X,roong-pâap-pá-yon,,,X,เราจะไปโรงภาพยนตร์คืนนี้,We will go to the cinema tonight.
+school,A1,noun,โรงเรียน,X,roong-riian,,,X,ฉันไปโรงเรียนทุกวัน,I go to school every day.
+hotel,A1,noun,โรงแรม,X,roong-rɛɛm,,,X,โรงแรมใหญ่,The hotel is big.
 goodbye,A1,interjection,ลาก่อน,X,laa-gɔ̀ɔn,,,X,ลาก่อน แล้วพบกันใหม่,"Goodbye, see you again."
-small,A1,adjective,เล็ก,X,,,,X,บ้านเล็กแต่สวย,The house is small but beautiful.
-play,A1,verb,เล่น,X,,,,X,เด็กเล่นบอล,The child plays ball.
+small,A1,adjective,เล็ก,X,lék,,,X,บ้านเล็กแต่สวย,The house is small but beautiful.
+play,A1,verb,เล่น,X,lên,,,X,เด็กเล่นบอล,The child plays ball.
 day,A1,noun,วัน,X,wan,,,X,วันนี้วันจันทร์,Today is Monday.
+today,A1,noun,วันนี้,X,wan-níi,,,X,วันนี้วันศุกร์,Today is Friday.
 journal,B1,noun,วารสาร,X,waa-rá-sǎan,,,X,เขียนบทความในวารสารวิทยาศาสตร์,Write an article in a science journal.
 journalism,B2,noun,วารสารศาสตร์,X,waa-rá-sǎan-sàat,,,X,เขาศึกษาวารสารศาสตร์เพื่อเป็นนักข่าวมืออาชีพ,He studies journalism to become a professional reporter.
+run,A1,verb,วิ่ง,X,wîng,,,X,เด็กวิ่งเร็ว,The child runs fast.
 visa,A2,noun,วีซ่า,X,wii-sâa,,,X,นักท่องเที่ยวต้องมีวีซ่า,Tourists must have a visa.
-time,A1,noun,เวลา,X,,,,X,วันนี้ไม่มีเวลา,Today there is no time.
+time,A1,noun,เวลา,X,wee-laa,,,X,วันนี้ไม่มีเวลา,Today there is no time.
 religion,B1,noun,ศาสนา,X,sàat-sà-nǎa,,,X,ศาสนามีผลต่อวัฒนธรรมไทย,Religion affects Thai culture.
 believer,B2,noun,ศาสนิกชน,X,sǎa-sà-ník-gà-chon,,,X,ศาสนิกชนแต่ละศาสนามีพิธีกรรมที่แตกต่างกัน,Followers of each religion have different rituals.
 zero,A1,numeral,ศูนย์,X,sǔun,,,X,ตัวเลขนี้คือศูนย์,This number is zero.
+dirty,A1,adjective,สกปรก,X,sòk-gà-bpròk,,,X,ห้องสกปรก,The room is dirty.
 interested,A2,adjective,สนใจ,X,sǒn-jai,,,X,ฉันสนใจภาษาไทยมาก,I am interested in Thai very much.
 slip,B1,noun,สลิป,X,sà-líp,,,X,ฉันได้สลิปจากร้านกาแฟ,I got a slip from the coffee shop.
 park,A1,noun,สวน,X,sǔuan,,,X,สวนสวย,A beautiful garden.
-beautiful,A1,adjective,สวย,X,,,,X,บ้านสวย,A beautiful house.
+beautiful,A1,adjective,สวย,X,sǔai,,,X,บ้านสวย,A beautiful house.
 hello,A1,interjection,สวัสดี,X,sà-wàt-dii,,male,X,สวัสดีครับ,Hello.
 two,A1,numeral,สอง,X,sɔ̌ɔng,,,X,ฉันมีหนังสือสองเล่ม,I have two books.
+clean,A1,adjective,สะอาด,X,sà-àat,,,X,ห้องสะอาด,The room is clean.
+short,A1,adjective,สั้น,X,sân,,,X,ไม้บรรทัดสั้น,The ruler is short.
 republic,B2,noun,สาธารณรัฐ,X,sǎa-taa-rá-ná-rát,,,X,ประเทศนี้เปลี่ยนจากราชอาณาจักรเป็นสาธารณรัฐ,This country changed from a kingdom to a republic.
 public,B2,adjective,สาธารณะ,X,sǎa-taa-rá-ná,,,X,สวนสาธารณะเป็นที่พักผ่อนของประชาชนในเมือง,A public park is a place for city people to relax.
 three,A1,numeral,สาม,X,sǎam,,,X,ฉันมีเพื่อนสามคน,I have three friends.
 girl,A1,noun,สาว,X,sǎao,,,X,สาวคนนั้นสวย,That girl is beautiful.
-color,A1,noun,สี,X,,,,X,ฉันชอบสีแดง,I like red.
+ten,A1,numeral,สิบ,X,sìp,,,X,สิบคน,Ten people.
+color,A1,noun,สี,X,sǐi,,,X,ฉันชอบสีแดง,I like red.
 four,A1,numeral,สี่,X,sìi,,,X,ฉันมีสี่โต๊ะ,I have four tables.
+six,A1,numeral,หก,X,hòk,,,X,หกเล่ม,Six books.
+heavy,A1,adjective,หนัก,X,nàk,,,X,กล่องหนัก,The box is heavy.
+"movie, film",A1,noun,หนัง,X,nǎng,,,X,ฉันดูหนัง,I watch a movie.
 "book, writings",A1,noun,หนังสือ,X,nǎng-sʉ̌ʉ,,,X,ฉันอ่านหนังสือ,I read a book.
 cold,A1,adjective,หนาว,X,nǎao,,,X,อากาศหนาว,The weather is cold.
 one,A1,numeral,หนึ่ง,X,nʉ̀ng,,,X,ฉันมีหนังสือหนึ่งเล่ม,I have one book.
+pork,A1,noun,หมู,X,mǔu,,,X,ฉันกินหมู,I eat pork.
 sweet,A1,adjective,หวาน,X,wǎan,,,X,น้ำหวาน,The drink is sweet.
+room,A1,noun,ห้อง,X,hɔ̂ng,,,X,ห้องใหญ่,The room is big.
+kitchen,A1,noun,ห้องครัว,X,hɔ̂ng-kruua,,,X,ห้องครัวสะอาด,The kitchen is clean.
+bedroom,A1,noun,ห้องนอน,X,hɔ̂ng-nɔɔn,,,X,ห้องนอนเล็ก,The bedroom is small.
+"restroom, bathroom",A1,noun,ห้องน้ำ,X,hɔ̂ng-náam,,,X,ห้องน้ำนี่,This is the bathroom.
+classroom,A1,noun,ห้องเรียน,X,hɔ̂ng-riian,,,X,ห้องเรียนกว้าง,The classroom is wide.
 five,A1,numeral,ห้า,X,hâa,,,X,ฉันมีห้าบ้าน,I have five houses.
-see,A1,verb,เห็น,X,,,,X,ฉันเห็นครู,I see the teacher.
-big,A1,adjective,ใหญ่,X,,,,X,บ้านใหญ่,A big house.
-new,A1,adjective,ใหม่,X,,,,X,บ้านใหม่,A new house.
+ear,A1,noun,หู,X,hǔu,,,X,หูเล็ก,The ear is small.
+see,A1,verb,เห็น,X,hěn,,,X,ฉันเห็นครู,I see the teacher.
+yellow,A1,adjective,เหลือง,X,lʉ̌ʉang,,,X,ดวงอาทิตย์เหลือง,The sun is yellow.
+"big, large",A1,adjective,ใหญ่,X,yài,,,X,บ้านใหญ่,A big house.
+new,A1,adjective,ใหม่,X,mài,,,X,บ้านใหม่,A new house.
 American,A2,adjective,อเมริกัน,X,à-mee-rí-gan,,,X,ฉันชอบเพลงอเมริกัน,I like American music.
-want,A1,verb,อยาก,X,,,,X,ฉันอยากกินข้าว,I want to eat rice.
+want,A1,verb,อยาก,X,yàak,,,X,ฉันอยากกินข้าว,I want to eat rice.
+how,A1,pronoun,อย่างไร,X,yàang-rai,,,X,คุณไปอย่างไร,How do you go.
 "be, exist",A1,verb,อยู่,X,yùu,,,X,ฉันอยู่บ้าน,I am at home.
 "tasty, delicious",A1,adjective,อร่อย,X,à-rɔ̀i,,,X,อาหารอร่อย,The food is delicious.
 good morning,A1,interjection,อรุณสวัสดิ์,X,à-run-sà-wàt,,male,X,อรุณสวัสดิ์ครับ,Good morning.

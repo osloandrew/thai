@@ -15,7 +15,7 @@ const SCHEMA_MAP = {
   engelsk: "English",
   CEFR: "CEFR",
   gender: "gender",
-  uttale: null, // not in Spanish CSV
+  uttale: "transliteration", // not in Spanish CSV
   etymologi: null, // not in Spanish CSV
   definisjon: "definition",
   eksempel: "example",
