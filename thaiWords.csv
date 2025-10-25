@@ -3,6 +3,7 @@ please,B1,adverb,กรุณา,X,gà-rú-naa,,,X,กรุณาอย่า�
 banana,A1,noun,กล้วย,X,glûai,,,X,กล้วยอยู่บนโต๊ะ,The banana is on the table.
 noon,A1,noun,กลางวัน,X,glaang-wan,,,X,กลางวันฉันกินข้าว,At noon I eat rice.
 golf,A2,noun,กอล์ฟ,X,gɔ́ɔp,,,X,เขาเล่นกอล์ฟกับเพื่อนทุกวันเสาร์,He plays golf with friends every Saturday.
+coconut milk,A2,noun,กะทิ,,gà-tí,,,,,
 coffee,A1,noun,กาแฟ,X,gaa-fɛɛ,,,X,กาแฟร้อนมาก,The coffee is very hot.
 iced coffee,A2,noun,กาแฟเย็น,X,gaa-fɛɛ-yen,,,X,ฉันชอบดื่มกาแฟเย็นตอนบ่าย,I like to drink iced coffee in the afternoon.
 cartoon,A2,noun,การ์ตูน,X,gaa-dtuun,,,X,น้องชายอ่านการ์ตูนทุกคืน,My younger brother reads comics every night.
@@ -12,6 +13,9 @@ salt,A1,noun,เกลือ,X,glʉʉa,,,X,อาหารนี้มีเก�
 "old, not new",A1,adjective,เก่า,X,gào,,,X,หนังสือเก่านี้อยู่ในบ้าน,This old book is in the house.
 nine,A1,numeral,เก้า,X,gâao,,,X,ฉันมีเก้าเล่ม,I have nine books.
 chair,A1,noun,เก้าอี้,X,gâo-îi,,,X,เก้าอี้อยู่ในห้องเรียน,The chair is in the classroom.
+"curry, soup, stew",A1,noun,แกง,,gɛɛng,,,,,
+green curry,A2,noun,แกงเขียวหวาน,,gɛɛng-kǐao-wǎan,,,,,
+red curry,A2,noun,แกงแดง,,gɛɛng-dɛɛng,,,,,
 "chicken, fowl",A1,noun,ไก่,X,gài,,,X,ฉันกินไก่,I eat chicken.
 bitter,A2,adjective,ขม,X,kǒm,,,X,ยานี้ขมมากแต่ดีต่อสุขภาพ,This medicine is very bitter but good for health.
 thing,A1,noun,ของ,X,kɔ̌ɔng,,,X,ของฉันอยู่บนโต๊ะ,My thing is on the table.
@@ -21,6 +25,7 @@ thank you,A1,interjection,ขอบคุณ,X,kɔ̀ɔp-kun,,male,X,ขอบค
 sell,A1,verb,ขาย,X,kǎai,,,X,ฉันขายข้าว,I sell rice.
 white,A1,adjective,ขาว,X,kǎao,,,X,เสื้อนี้ขาว,This shirt is white.
 rice,A1,noun,ข้าว,X,kâao,,,X,ข้าวอร่อย,The rice is delicious.
+mango sticky rice,A2,noun,ข้าวเหนียวมะม่วง,,kâao-nǐao-má-mûuang,,,,,
 "he, she, they",A1,pronoun,เขา,X,kǎo,,,X,เขาเป็นนักเรียน,He is a student.
 "come in, enter",A1,verb,เข้า,X,kâo,,,X,ฉันเข้าโรงเรียน,I enter the school.
 understand,A1,verb,เข้าใจ,X,kâo-jai,,,X,ฉันเข้าใจครู,I understand the teacher.
@@ -78,6 +83,9 @@ red,A1,adjective,แดง,X,dɛɛng,,,X,ดอกไม้แดง,The flower 
 dinosaur,A2,noun,ไดโนเสาร์,X,dai-noo-sǎo,,,X,เด็กๆชอบดูหนังไดโนเสาร์,Children like to watch dinosaur movies.
 hear,A1,verb,ได้ยิน,X,dâi-yin,,,X,ฉันได้ยินเพลง,I hear music.
 tree,A1,noun,ต้นไม้,X,dtôn-máai,,,X,มีต้นไม้ใหญ่,There is a big tree.
+boil,A2,verb,ต้ม,,dtôm,,,,,
+tom kha,A2,noun,ต้มข่า,,dtôm-kàa,,,,,
+"tom yam, hot and sour soup",A2,noun,ต้มยำ,,dtôm-yam,,,,,
 market,A1,noun,ตลาด,X,dtà-làat,,,X,ตลาดอยู่ใกล้บ้าน,The market is near the house.
 eye,A1,noun,ตา,X,dtaa,,,X,ตาสวย,Beautiful eyes.
 table,A1,noun,โต๊ะ,X,dtó,,,X,โต๊ะใหญ่อยู่ในห้องอาหาร,The big table is in the dining room.
@@ -113,6 +121,7 @@ juice,A1,noun,น้ำผลไม้,X,náam-pǒn-lá-máai,,,X,ฉันด�
 magazine,A2,noun,นิตยสาร,X,nít-dtà-yá-sǎan,,,X,น้องสาวซื้อ นิตยสาร แฟชั่น,My younger sister buys a fashion magazine.
 beef,A1,noun,เนื้อ,X,nʉ́ʉa,,,X,เขากินเนื้อ,He eats meat.
 on,A1,preposition,บน,X,bon,,,X,หนังสืออยู่บนโต๊ะ,The book is on the table.
+"baht, Thai currency",A1,noun,บาท,,bàat,,,,,
 "house, home",A1,noun,บ้าน,X,bâan,,,X,บ้านฉันเล็ก,My house is small.
 bill,A2,noun,บิล,X,bin,,,X,ฉันต้องจ่ายบิลไฟฟ้า,I must pay the electricity bill.
 "light, lightweight",A1,adjective,เบา,X,bao,,,X,กระเป๋าเบา,The bag is light.
@@ -124,6 +133,8 @@ starfish,A2,noun,ปลาดาว,X,bplaa-daao,,,X,ปลาดาวอยู
 mouth,A1,noun,ปาก,X,bpàak,,,X,ปากเล็ก,The mouth is small.
 close,A1,verb,ปิด,X,bpìt,,,X,ปิดประตู,Close the door.
 be,A1,verb,เป็น,X,bpen,,,X,ฉันเป็นครู,I am a teacher.
+"baozi, steamed bun",B1,noun,เปา,,bpao,,,,,
+spring roll,A2,noun,เปาะเปี๊ยะ,,bpɔ̀-bpía,,,,,
 open,A1,verb,เปิด,X,bpə̀ət,,,X,เปิดไฟ,Turn on the light.
 eight,A1,numeral,แปด,X,bpɛ̀ɛt,,,X,ฉันมีแปดเล่ม,I have eight books.
 go,A1,verb,ไป,X,bpai,,,X,ฉันไปโรงเรียน,I go to school.
@@ -131,6 +142,8 @@ go,A1,verb,ไป,X,bpai,,,X,ฉันไปโรงเรียน,I go to sch
 fruit,A1,noun,ผลไม้,X,pǒn-lá-máai,,,X,ฉันกินผลไม้,I eat fruit.
 stir-fry,A2,noun,ผัด,X,pàt,,,X,ผัดผักง่ายมาก,Stir-frying vegetables is very easy.
 stir-fry,A2,verb,ผัด,X,pàt,,,X,แม่ผัดผักในครัว,Mother stir-fries vegetables in the kitchen.
+drunken noodles,A2,noun,ผัดขี้เมา,,pàt-kîi-mao,,,,,
+pad see ew,A2,noun,ผัดซีอิ๊ว,,pàt-sii-íu,,,,,
 pad thai,A2,noun,ผัดไทย,X,pàt-tai,,,X,ฉันกินผัดไทยกับเพื่อน,I eat pad thai with a friend.
 wrong,A1,adjective,ผิด,X,pìt,,,X,คำตอบผิด,The answer is wrong.
 spicy,A1,adjective,เผ็ด,X,pèt,,,X,ต้มยำเผ็ด,Tom yum is spicy.
@@ -149,6 +162,7 @@ Thai,A1,noun,ภาษาไทย,X,paa-sǎa-tai,,,X,ภาษาไทยย�
 English,A1,noun,ภาษาอังกฤษ,X,paa-sǎa-ang-grìt,,,X,ภาษาอังกฤษง่าย,English is easy.
 geography,B2,noun,ภูมิศาสตร์,X,puu-mí-sàat,,,X,ภูมิศาสตร์ช่วยให้เราเข้าใจภูเขา แม่น้ำ และภูมิอากาศ,"Geography helps us understand mountains, rivers, and climate."
 human being,B1,noun,มนุษย์,X,má-nút,,,X,มนุษย์ต้องการน้ำและอาหารเพื่ออยู่รอด,Humans need water and food to survive.
+coconut,A2,noun,มะพร้าว,,má-práao,,,,,
 "come, arrive",A1,verb,มา,X,maa,,,X,ฉันมาโรงเรียน,I come to school.
 very,A1,adverb,มาก,X,mâak,,,X,ฉันชอบกินข้าวมาก,I like to eat rice very much.
 have,A1,verb,มี,X,mii,,,X,ฉันมีรถ,I have a car.
@@ -183,6 +197,7 @@ hospital,A1,noun,โรงพยาบาล,X,roong-pá-yaa-baan,,,X,โรง�
 school,A1,noun,โรงเรียน,X,roong-riian,,,X,ฉันไปโรงเรียนทุกวัน,I go to school every day.
 hotel,A1,noun,โรงแรม,X,roong-rɛɛm,,,X,โรงแรมใหญ่,The hotel is big.
 goodbye,A1,interjection,ลาก่อน,X,laa-gɔ̀ɔn,,,X,ลาก่อน แล้วพบกันใหม่,"Goodbye, see you again."
+"larb, lap, minced meat",A2,noun,ลาบ,,lâap,,,,,
 small,A1,adjective,เล็ก,X,lék,,,X,บ้านเล็กแต่สวย,The house is small but beautiful.
 play,A1,verb,เล่น,X,lên,,,X,เด็กเล่นบอล,The child plays ball.
 day,A1,noun,วัน,X,wan,,,X,วันนี้วันจันทร์,Today is Monday.
@@ -202,6 +217,7 @@ park,A1,noun,สวน,X,sǔuan,,,X,สวนสวย,A beautiful garden.
 beautiful,A1,adjective,สวย,X,sǔai,,,X,บ้านสวย,A beautiful house.
 hello,A1,interjection,สวัสดี,X,sà-wàt-dii,,male,X,สวัสดีครับ,Hello.
 two,A1,numeral,สอง,X,sɔ̌ɔng,,,X,ฉันมีหนังสือสองเล่ม,I have two books.
+satay,A2,noun,สะเต๊ะ,,sà-dté,,,,,
 clean,A1,adjective,สะอาด,X,sà-àat,,,X,ห้องสะอาด,The room is clean.
 short,A1,adjective,สั้น,X,sân,,,X,ไม้บรรทัดสั้น,The ruler is short.
 republic,B2,noun,สาธารณรัฐ,X,sǎa-taa-rá-ná-rát,,,X,ประเทศนี้เปลี่ยนจากราชอาณาจักรเป็นสาธารณรัฐ,This country changed from a kingdom to a republic.
