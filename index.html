@@ -6,34 +6,34 @@
       name="viewport"
       content="width=device-width, initial-scale=1.0, user-scalable=no"
     />
-    <title>Norwegian Dictionary | Search in Norwegian or English</title>
+    <title>Thai Dictionary | Search in Thai or English</title>
 
     <!-- Meta Description -->
     <meta
       name="description"
-      content="Norwegian Dictionary is your resource for finding words in both Norwegian and English. Search, filter by part of speech, and discover new words."
+      content="Thai Dictionary is your resource for finding words in both Thai and English. Search, filter by part of speech, and discover new words."
     />
 
     <!-- Meta Keywords -->
     <meta
       name="keywords"
-      content="Norwegian dictionary, Norwegian to English, English to Norwegian, word search, language learning, part of speech filter, random words"
+      content="Thai dictionary, Thai to English, English to Thai, word search, language learning, part of speech filter, random words"
     />
 
     <!-- Open Graph for Social Media Sharing -->
     <meta
       property="og:title"
-      content="Norwegian Dictionary | Search in Norwegian or English"
+      content="Thai Dictionary | Search in Thai or English"
     />
     <meta
       property="og:description"
-      content="Use the Norwegian Dictionary to find translations and definitions for words in Norwegian and English."
+      content="Use the Thai Dictionary to find translations and definitions for words in Thai and English."
     />
     <meta
       property="og:image"
       content="Resources/Icons/android-chrome-512x512.png"
     />
-    <meta property="og:url" content="https://osloandrew.github.io/norwegian/" />
+    <meta property="og:url" content="https://osloandrew.github.io/thai/" />
 
     <!-- Stylesheets -->
     <link rel="stylesheet" href="styles.css" />
@@ -87,10 +87,8 @@
 
   <body>
     <header>
-      <h1 id="site-title" onclick="returnToLandingPage()">
-        Norwegian Dictionary
-      </h1>
-      <p id="site-subtitle">Search in Norwegian or English</p>
+      <h1 id="site-title" onclick="returnToLandingPage()">Thai Dictionary</h1>
+      <p id="site-subtitle">Search in Thai or English</p>
     </header>
 
     <div id="sticky-header" class="hidden">
@@ -220,7 +218,7 @@
                 id="search-bar"
                 placeholder=" "
                 onkeydown="handleKey(event)"
-                aria-label="Search for Norwegian or English words"
+                aria-label="Search for Thai or English words"
               />
               <button
                 id="clear-btn"
@@ -259,10 +257,10 @@
       <div id="landing-card" class="definition">
         <h2>
           Welcome to the <br />
-          Norwegian Dictionary
+          Thai Dictionary
         </h2>
         <p style="text-align: center">
-          Explore Norwegian vocabulary interactively. <br />
+          Explore Thai vocabulary interactively. <br />
           Click on one of the buttons below to get started.
         </p>
 
@@ -293,7 +291,7 @@
             <p>Explore real sentences in context using your chosen words.</p>
           </div>
 
-          <!-- Norwegian Stories Button -->
+          <!-- Thai Stories Button -->
           <div class="button-container">
             <img
               class="landing-card-image"
@@ -301,7 +299,7 @@
               alt="Stories"
             />
             <button class="landing-card-btn" onclick="selectType('stories')">
-              Norwegian Stories
+              Thai Stories
             </button>
             <p>
               Immerse yourself in fiction and non-fiction to deepen your
@@ -339,7 +337,7 @@
             >
               Pronunciation Guide
             </button>
-            <p>Perfect your pronunciation by learning Norwegian sounds.</p>
+            <p>Perfect your pronunciation by learning Thai sounds.</p>
           </div>
 
           <!-- Support Button -->
@@ -366,7 +364,7 @@
 
         <div class="pronunciation-wrapper hidden">
           <!-- Changed this class -->
-          <h3>Norwegian Pronunciation Guide for English Speakers</h3>
+          <h3>Thai Pronunciation Guide for English Speakers</h3>
           <p>
             Norwegian pronunciation can be tricky for English speakers. The
             table below outlines common Norwegian sounds, with their
@@ -574,12 +572,10 @@
           <option value="latin">Latin</option>
           <option value="norwegian">Norwegian</option>
           <option value="spanish">Spanish</option>
+          <option value="thai">Thai</option>
         </select>
       </div>
-      <p class="copyright">
-        © 2025 Norwegian Dictionary, with input from Språkrådet, Universitetet i
-        Bergen, and Det Norske Akademi for Språk og Litteratur
-      </p>
+      <p class="copyright">© 2025 Thai Dictionary</p>
     </footer>
     <script>
       // Language site switcher -> navigates to https://osloandrew.github.io/{slug}/
